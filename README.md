@@ -2,6 +2,10 @@
 
 https://youtu.be/9_lbv4kSgIk
 
+###Discord:
+
+https://discord.gg/RzMzxkxEGu
+
 ###Features:
 
 Dynamic Collection Points: Randomly generates garbage collection points from a predefined list, ensuring a varied gameplay experience.
