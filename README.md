@@ -1,12 +1,12 @@
-###Prewiew:
+Prewiew:
 
 https://youtu.be/9_lbv4kSgIk
 
-###Discord:
+Discord:
 
 https://discord.gg/RzMzxkxEGu
 
-###Features:
+Features:
 
 Dynamic Collection Points: Randomly generates garbage collection points from a predefined list, ensuring a varied gameplay experience.
 
@@ -22,7 +22,7 @@ Server Events: Tracks collected trash and notifies players when to return to the
 
 Vendor Interaction: An NPC (garbage vendor) is created for players to complete their job, with a blip on the map for easy navigation.
 
-###Installation:
+Installation:
 
 Ensure you have ESX and ox_target installed on your server.
 
@@ -30,7 +30,7 @@ Add the script to your resources and ensure it is started in your server.cfg.
 
 Configure the collection locations and vendor coordinates in the Config table within the script.
 
-###Usage:
+Usage:
 
 Players can start the garbage collection job by interacting with the vendor NPC.
 
